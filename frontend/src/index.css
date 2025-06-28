@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+.MuiContainer-root {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.MuiPaper-root {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+a {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
